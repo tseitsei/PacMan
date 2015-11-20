@@ -2,6 +2,7 @@
 PacMan game in Java.
 
 Open index.html in AppletViewer or in a browser that runs Java Applets.
+Remember to click the applet to gain focus.
 
 Author: Juha J. Kari.
 
